@@ -35,6 +35,7 @@ MAX_SCRIPTS_PER_USER = 10
 AUTO_RESTART_DEFAULT = True
 MAX_LOG_SIZE = 4096
 
+os.makedirs(DOWNLOADS_DIR = "/tmp/downloads"
 os.makedirs(DOWNLOADS_DIR, exist_ok=True)
 os.makedirs(LOGS_DIR, exist_ok=True)
 os.makedirs(BACKUP_DIR, exist_ok=True)
