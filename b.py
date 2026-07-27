@@ -24,7 +24,7 @@ from telegram.constants import ParseMode
 # ═══════════════════════════════════════════════════════
 # 🔧 CONFIGURATION
 # ═══════════════════════════════════════════════════════
-TOKEN = "8880154979:AAFbR8XG2JO5bbmd7-AdYMn-XqcOsW5mpJk"
+TOKEN = "8261132027:AAGOT1Ojh4CtjY-2o2dYdOKJAzk2C4IYlKk"
 OWNER_ID = 5140999748
 PASSWORD = "ジェイ"
 DATA_FILE = "bot_data.json"
