@@ -58,8 +58,8 @@ BACKUP_HOURS      = int(os.getenv("BACKUP_INTERVAL_HOURS", "24"))
 DB_URL            = os.getenv("DATABASE_URL", "sqlite:///ig_gc_bot.db")
 
 # cookies (.env mein optional — pehli baar setup ke liye)
-IG_SESSIONID  = os.getenv("IG_SESSIONID",  "33328684279%3AFS6iED3oZGeOsk%3A1%3AAYlzvPYN5hmV_kY7nhKCyhjDuwSYRFKHkkcJszHstg")
-IG_CSRFTOKEN  = os.getenv("IG_CSRFTOKEN",  "2moLGkNHOyRN2r3d7CYMK8wOKf6zrKFE")
+IG_SESSIONID  = os.getenv("IG_SESSIONID",  "33328684279%3ABq7KFByDN8lXcz%3A21%3AAYlphp-nkxMHkzMO0ewXq7-jEnzRSkBuhHH9WsSu5g")
+IG_CSRFTOKEN  = os.getenv("IG_CSRFTOKEN",  "titoB4cDpOnHbnu5BZnkQ8YWQ2Kx9lug")
 IG_DS_USER_ID = os.getenv("IG_DS_USER_ID", "33328684279")
 IG_MID        = os.getenv("IG_MID",        "aqy4SAABAAF7Z7FoNKpXqNDfwmJf")
 
